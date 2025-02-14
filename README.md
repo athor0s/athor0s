@@ -1,12 +1,12 @@
 # athoros
 
-Frontend developer crafting modern web applications with a focus on user experience.  
-Building pixel-perfect interfaces and smooth interactions.
+frontend dev crafting modern web applications with a focus on ux.  
+building fine huzz interfaces.
 
 ### stack
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vue,tailwind,sass&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,js,tailwind&theme=dark&perline=6" />
 </div>
 
 ### stats
@@ -16,8 +16,7 @@ Building pixel-perfect interfaces and smooth interactions.
 ### contact
 
 [![Telegram](https://img.shields.io/badge/-telegram-000000?style=flat-square&logo=telegram)](https://t.me/athor0s)
-[![Portfolio](https://img.shields.io/badge/-portfolio-000000?style=flat-square&logo=About.me)](https://athor0s.dev)
 
 ---
 
-<sub>✨ Crafting beautiful interfaces</sub> 
+<sub>crafting beautiful interfaces from community to community</sub>
