@@ -1,18 +1,23 @@
 # athoros
 
-Frontend developer focused on building web experiences with React and Three.js.
+Frontend developer crafting modern web applications with a focus on user experience.  
+Building pixel-perfect interfaces and smooth interactions.
 
 ### stack
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js&logoColor=white)
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vue,tailwind,sass&theme=dark&perline=6" />
+</div>
 
-### projects
+### stats
 
-**[IndustrialMine](https://github.com/athor0s/minenergy-v2)** — Minecraft-style browser game built with React and Three.js
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=athor0s&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=24&text_color=ffffff&icon_color=ffffff&bg_color=0,000000,130F40&theme=dark" />
 
 ### contact
 
-[![Telegram](https://img.shields.io/badge/-telegram-black?style=flat-square&logo=telegram)](https://t.me/athor0s)
+[![Telegram](https://img.shields.io/badge/-telegram-000000?style=flat-square&logo=telegram)](https://t.me/athor0s)
+[![Portfolio](https://img.shields.io/badge/-portfolio-000000?style=flat-square&logo=About.me)](https://athor0s.dev)
+
+---
+
+<sub>✨ Crafting beautiful interfaces</sub> 
