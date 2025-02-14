@@ -6,7 +6,7 @@ building fine huzz interfaces.
 ### stack
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,js,tailwind&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind&theme=dark&perline=6" />
 </div>
 
 ### stats
